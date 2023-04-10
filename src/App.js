@@ -1,6 +1,6 @@
 import { AllRoutes } from './routes/AllRoutes';
 import './App.css';
-import { Header, CartCard , ProductCard , Footer } from './components';
+import { Header} from './components';
 
 function App() {
   return (
